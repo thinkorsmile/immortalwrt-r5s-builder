@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# OpenClash
-git clone https://github.com/vernesong/OpenClash package/openclash
 
 # SmartDNS
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
